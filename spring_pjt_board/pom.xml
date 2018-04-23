@@ -115,8 +115,20 @@
 			<artifactId>junit</artifactId>
 			<version>4.7</version>
 			<scope>test</scope>
-		</dependency>        
+		</dependency>      
+		
+		<!-- JDBC Template -->
+		<!-- https://mvnrepository.com/artifact/org.springframework/spring-jdbc -->
+		<dependency>
+		    <groupId>org.springframework</groupId>
+		    <artifactId>spring-jdbc</artifactId>
+		    <version>4.3.16.RELEASE</version>
+		</dependency> 
+		
 	</dependencies>
+	
+	
+	
     <build>
         <plugins>
             <plugin>
