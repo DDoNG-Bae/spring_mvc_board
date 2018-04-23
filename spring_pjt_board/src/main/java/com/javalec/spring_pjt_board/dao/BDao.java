@@ -18,7 +18,7 @@ import org.springframework.jdbc.core.PreparedStatementCreator;
 import org.springframework.jdbc.core.PreparedStatementSetter;
 
 import com.javalec.spring_pjt_board.dto.BDto;
-import com.javelec.spring_pjt_board.util.Constant;
+import com.javalec.spring_pjt_board.util.Constant;
 
 public class BDao {
 	DataSource dataSource;

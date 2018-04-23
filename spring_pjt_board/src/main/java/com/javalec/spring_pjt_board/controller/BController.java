@@ -17,7 +17,7 @@ import com.javalec.spring_pjt_board.command.BModifyCommand;
 import com.javalec.spring_pjt_board.command.BReplyCommand;
 import com.javalec.spring_pjt_board.command.BReplyViewCommand;
 import com.javalec.spring_pjt_board.command.BWriteCommand;
-import com.javelec.spring_pjt_board.util.Constant;
+import com.javalec.spring_pjt_board.util.Constant;
 
 
 /**
